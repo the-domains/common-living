@@ -1,0 +1,14 @@
+layout_spectrum: 0.9377546203322709
+typography_spectrum: 0.625543381087482
+color:
+  brandStrength: 0.6370436833240092
+  lightness: 0.9886005686130375
+  saturation: 0.3885105070658028
+  rhythmicContrast: 0.9996067795436829
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: common living
